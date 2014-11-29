@@ -1,0 +1,19 @@
+{
+  "name": "microsvc-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "microsvc": "0.0.0",
+    "microsvc-bus": "0.0.0",
+    "microsvc-cconfig": "0.0.0",
+    "microsvc-llog": "0.0.0",
+    "node-uuid": "^1.4.1",
+    "servicebus": "^1.0.0-rc2"
+  }
+}

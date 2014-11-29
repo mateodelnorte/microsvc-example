@@ -1,0 +1,11 @@
+{
+  "development": {
+    "RABBITMQ_URL": "amqp://localhost:5672"
+  },
+  "staging": {
+    "RABBITMQ_URL": "amqp://localhost:5672"
+  },
+  "production": {
+    "RABBITMQ_URL": "amqp://localhost:5672"
+  }
+}
